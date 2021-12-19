@@ -1,0 +1,9 @@
+{
+	"name": "adfnawin",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a95110ea-7f6a-49b3-b3f4-ab8cca3e459d",
+		"tenantId": "1746463d-b2dd-4bfe-9153-bba5153bc2da"
+	}
+}
